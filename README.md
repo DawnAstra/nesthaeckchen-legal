@@ -1,2 +1,0 @@
-# nesthaeckchen-legal
-Datenschutzerklärung

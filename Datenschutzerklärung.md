@@ -1,0 +1,107 @@
+# Datenschutzerklärung
+
+**Version:** 1.2  
+**Stand:** 04.05.2026
+
+## 1. Verantwortlicher
+Astrid Matz
+Hohentwielstr. 13, 78194 Immendingen  
+E-Mail: app@mymatz.de · Tel.: 015231781947
+
+## 2. Zwecke und Rechtsgrundlagen
+
+Personenbezogene Daten werden in der App zu folgenden Zwecken verarbeitet:
+
+- Betreuung & Organisation (Planung, Anwesenheit, Berichte, Gutschriftstunden, Überstunden, Essensabrechnung)  
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Erfüllung des Betreuungsvertrags); teils Art. 6 Abs. 1 lit. c DSGVO (gesetzliche Aufbewahrungspflichten).
+
+- Nachweis-/Abrechnungspflichten (z. B. Dokumentation von Betreuungszeiten, Ausfall-/Gutschriftregelungen, Essensanzahl)  
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. b und lit. c DSGVO.
+
+- Rechnungstellung an die zahlungspflichtigen Eltern/Kostenträger (Erstellung, Versand und Archivierung von Rechnungen, ggf. als eRechnung im XRechnung-Format)  
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. c DSGVO i. V. m. §14 UStG (Pflichtangaben Rechnung) und §14b UStG (Aufbewahrungspflicht); Art. 6 Abs. 1 lit. b DSGVO (Erfüllung des Betreuungsvertrags).
+
+- Mitarbeiter-Zeiterfassung (sofern aktiviert): Erfassung und Dokumentation von Arbeits-, Urlaubs- und Krankheitszeiten gemäß §16 Abs. 2 ArbZG.  
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. c DSGVO i. V. m. §16 ArbZG sowie Art. 6 Abs. 1 lit. b DSGVO (Arbeitsverhältnis).
+
+- Bereitstellung der Vollversion / In-App-Kauf-Verwaltung über RevenueCat  
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragsabwicklung).
+
+- IT-Betrieb/Sicherheit (lokale Speicherung, Sicherung durch den Nutzer, optionaler Debug-Export zur Fehleranalyse)   
+  Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an sicherem und stabilem Betrieb der App).
+
+- Push-Benachrichtigungen (falls aktiviert)  
+  Rechtsgrundlage:Einwilligung, Art. 6 Abs. 1 lit. a DSGVO.  
+  Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden.
+
+Hinweis: Die App arbeitet standardmäßig offline mit lokaler Speicherung auf dem Endgerät. Eine Übermittlung an Dritte erfolgt nur, wenn Nutzer aktiv Dokumente (z. B. PDF-Berichte/Backups/Debugreports) teilen.
+
+## 3. Kategorien personenbezogener Daten
+
+- Stammdaten Kind: Name, (optional) Geburtsdatum, Notizen, Einwilligungsstatus.  
+- Stammdaten Eltern (sofern für Rechnungstellung erfasst): Name, Postanschrift, optional E-Mail-Adresse.  
+- Stammdaten Mitarbeiter (sofern Mitarbeiter-Modul aktiviert): Name, Soll-/Wochenstunden, Wochenplan.  
+- Planung: gebuchte/vereinbarte Betreuungszeiten (Wochentage, Start/Ende).  
+- Anwesenheit pro Tag: Status (anwesend/abwesend/kind krank/Notfallbetreuung), Zeiten (Start/Ende), Essensart (bis 2 / ab 2 / weitere Mahlzeit), ggf. Tagesnotiz.  
+- Mitarbeiter-Tageserfassung: Status (anwesend, frei, krank, Urlaub, Feiertag), Arbeitszeiten, Pausen.  
+- Abrechnung/Berichte: Summen, Soll-/Ist-Stunden, Überstunden, Gutschriftstunden, Essensanzahl, Kosten.  
+- Rechnungsdaten: Rechnungsnummer, Empfängerdaten (Eltern), Zeitraum, Beträge, Status (Entwurf/Versendet/Bezahlt), archiviertes Rechnungs-PDF und ggf. eRechnung-XML im strukturierten XRechnung-Format.
+- Einstellungen des Anbieters: Name, Anschrift, Telefon, E-Mail, Steuernummer, Bankverbindung — werden auf Rechnungen ausgewiesen.
+
+## 4. Herkunft der Daten
+
+Die Daten werden vom Benutzer eingegeben. Backups können aus einer zuvor selbst exportierten Datei wiederhergestellt werden.
+
+## 5. Pflicht zur Bereitstellung
+
+Daten zur Betreuungsorganisation sind für die Vertragserfüllung erforderlich.  
+
+## 6. Empfänger und Datenweitergabe
+
+- Keine automatische Cloud-Übermittlung der Betreuungsdaten. Stamm-, Planungs-, Anwesenheits- und Abrechnungsdaten werden ausschließlich lokal auf dem Endgerät gespeichert.  
+- Bewusste Weitergabe durch Benutzer: Beim Export/Teilen von PDF-Berichten, Rechnungs-PDFs/-XMLs oder ZIP-Backups über das Betriebssystem können Daten an den vom Nutzer gewählten Dienst übermittelt werden (z. B. E-Mail, Messenger, Cloud-Speicher). Für diese Übermittlung ist der Nutzer verantwortlich.  
+- Rechnungsversand per E-Mail: Wird die Funktion „Rechnung per E-Mail versenden" genutzt, öffnet sich die System-Mail-App des Endgeräts mit vorausgefüllter Empfängeradresse, Betreff, Text und PDF-Anhang. Der eigentliche Versand erfolgt durch den vom Nutzer eingerichteten E-Mail-Dienst — die App selbst übermittelt keine Daten an externe Server.
+- In-App-Käufe (RevenueCat): Für die technische Abwicklung der Vollversion wird der Dienst RevenueCat (RevenueCat, Inc., 642 Moulton Ave, Los Angeles, CA 90031, USA) eingesetzt. RevenueCat erhält einen anonymen App-internen Nutzer-Identifier sowie Kauf-Events; personenbezogene Stamm-, Betreuungs- oder Abrechnungsdaten werden nicht übermittelt. Datenschutzerklärung: https://www.revenuecat.com/privacy/
+- Support-Mails: Wenn der Nutzer den Support kontaktiert, kann eine anonyme, App-interne Nutzer-ID mitgesendet werden, um Anfragen zuordnen zu können. Optional erstellte Debug-Reports enthalten keine Klartext-Namen oder -Adressen (Eltern- und Kindernamen, Anschriften werden vor dem Export entfernt; siehe Abschnitt 7).
+- Sonstige Auftragsverarbeiter werden nicht eingesetzt.
+
+## 7. Optionaler Debug-Export (Fehleranalyse)
+
+Zur technischen Fehleranalyse kann auf ausdrückliche Auswahl durch den Nutzer ein optionaler Debug-Export erstellt werden.
+Der Export erfolgt ausschließlich manuell und enthält nur die für die Analyse erforderlichen Daten. Eine automatische Übermittlung an den Anbieter findet nicht statt.
+Eine Weitergabe erfolgt nur, wenn der Nutzer die Datei bewusst weiterleitet (z. B. an den Support).
+
+## 8. Drittlandtransfer
+
+Durch die Nutzung der App an sich erfolgt keine Übermittlung in Drittländer.  
+Eine Übermittlung kann stattfinden, wenn Nutzer Daten aktiv exportieren/teilen (z. B. per E-Mail, Messenger, Cloud-Speicher) oder wenn das Betriebssystem des Nutzers App-/Geräte-Backups erstellt (z. B. iCloud/Google-Backup). In diesen Fällen verarbeiten die vom Nutzer gewählten Dienste die Daten in eigener Verantwortlichkeit und es kann zu Übermittlungen in Drittländer (z. B. USA) kommen. Bitte beachten Sie die jeweiligen Datenschutzhinweise dieser Dienste.  
+
+## 9. Speicherdauer
+
+Personenbezogene Daten werden grundsätzlich nur so lange gespeichert, wie sie für die Betreuung, Dokumentation und Abrechnung erforderlich sind. Die Löschung erfolgt durch den Nutzer manuell in der App (entweder vollständig oder kindbezogen). Gesetzliche Aufbewahrungspflichten bleiben unberührt.
+
+Konkret:
+
+- Anwesenheits- und Berichtsdaten: konfigurierbare Aufbewahrungsdauer in den Einstellungen, anschließend automatische Bereinigung auf Aktion des Nutzers.  
+- Mitarbeiter-Zeiterfassung: gemäß §16 Abs. 2 ArbZG mindestens 2 Jahre; in der App konfigurierbar (empfohlen 3–5 Jahre).  
+- Rechnungs-PDFs und eRechnung-XMLs: 10 Jahre nach §14b UStG. Diese Dateien werden auch beim Löschen einer Rechnung in der App im App-Verzeichnis aufbewahrt und können nur über ein Backup oder durch direkten Datei-Zugriff entfernt werden.
+- Manuelle Backup-ZIPs: enthalten alle Daten zum Zeitpunkt der Erstellung einschließlich der archivierten Rechnungs-PDFs (mit Eltern-Anschriften). Sie verbleiben so lange auf dem vom Nutzer gewählten Speicher (z. B. Cloud, lokales Verzeichnis), bis sie dort gelöscht werden — die sichere Aufbewahrung dieser Dateien liegt in der Verantwortung des Nutzers.
+- Automatische Datenbank-Sicherungen werden im App-Verzeichnis abgelegt (vor jeder Schema-Migration, einmal täglich, vor jeder Wiederherstellung). Sie sind über die Einstellungen → Backup einsehbar und löschbar.
+
+## 10. Rechte der Betroffenen
+
+Betroffene (Kinder über die Sorgeberechtigten) haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch sowie Widerruf erteilter Einwilligungen (mit Wirkung für die Zukunft). Zuständig ist die verantwortliche Stelle (Tagespflegeperson)
+
+Beschwerden können bei der zuständigen Datenschutzaufsichtsbehörde eingelegt werden (z. B. LfDI Baden-Württemberg).
+
+## 11. Sicherheit
+
+Daten werden lokal gespeichert. Wir empfehlen Geräte-Sperre/-Verschlüsselung des Endgeräts, regelmäßige Backups und eine sichere Weitergabe (z. B. passwortgeschützte PDFs/Archive). Beachte, dass Backup-ZIPs personenbezogene Daten Dritter (Eltern) enthalten können — sie sollten nicht ungeschützt in öffentlichen oder geteilten Cloud-Ordnern abgelegt werden.
+
+## 12. Automatisierte Entscheidungen
+
+Es findet keine automatisierte Entscheidungsfindung i. S. d. Art. 22 DSGVO statt.
+
+## 13. Änderungen
+
+Die jeweils geltende Version und der Stand werden oben angezeigt.
